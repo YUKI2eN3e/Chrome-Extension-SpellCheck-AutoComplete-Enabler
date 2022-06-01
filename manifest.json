@@ -11,7 +11,7 @@
 , "author"                  : "Elad Karako"
 
 
-, "permissions"             : [ "*://*/*"
+, "permissions"             : [ "https://github.com/*"
                               ]
 , "background"              : { "scripts":    [ "resources/background_main.js"
                                               ]
